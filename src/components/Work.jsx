@@ -6,20 +6,21 @@ import qcm from '../assets/qcmpic.jpg';
 import atw from '../assets/artwork.JPG';
 import tl from '../assets/tl.png';
 import et from '../assets/et.JPG';
+import art from '../assets/ecom-thumbnail.JPG';
 
 
 const Data= [
   {  
     name:"QCM Detailing" ,
-    url: "https://github.com/zainbux/QCM-2.0/tree/main",
+    url: "https://github.com/zainbux/QCM",
     image: qcm,
     DemoUrl: "https://www.qcmdetailing.com/",
   },
   {  
     name:"ArtWork Portfolio" ,
-    url: "https://github.com/zainbux/ArtPortfolio",
-    image: atw,
-    DemoUrl: "https://art-portfolio-chi.vercel.app/",
+    url: "https://github.com/zainbux/ArtShop",
+    image: art,
+    DemoUrl: "https://art-shop-txh5.vercel.app/",
   },
   {  
     name:"Expense Tracker" ,

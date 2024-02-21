@@ -14,6 +14,8 @@ import typescript from '../assets/typescript.png';
 import nextjs from '../assets/nextjs.png';
 import aws from '../assets/aws.svg';
 import mysql from '../assets/mysql.png';
+import Shopify from '../assets/shopify.png';
+
 
 
 
@@ -31,10 +33,7 @@ const Skills = () => {
 
           <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
               
-              <div className=' mb-10 text-0 hover:scale-90 hover:opacity-50 duration-500 w-1/2 mx-auto'>
-                  <img className='' src={JavaScript} alt="HTML icon" />
-                  <p className=' my-4'>JAVASCRIPT</p>
-              </div>
+
 
               <div className='text-0 hover:scale-90 hover:opacity-50 duration-500 w-1/2 mx-auto'>
                   <img className='' src={typescript} alt="HTML icon" />
@@ -47,6 +46,10 @@ const Skills = () => {
               <div className='text-0 hover:scale-90 hover:opacity-50 duration-500 w-1/2 mx-auto'>
                   <img className='' src={nextjs} alt="HTML icon" />
                   <p className='my-4'>NEXT.JS</p>
+              </div>              
+              <div className=' mb-10 text-0 hover:scale-90 hover:opacity-50 duration-500 w-1/2 mx-auto'>
+                  <img className='' src={Shopify} alt="HTML icon" />
+                  <p className=' my-4'>SHOPIFY</p>
               </div>
               <div className='text-0 hover:scale-90 hover:opacity-50 duration-500 w-1/2 mx-auto'>
                   <img className='' src={mysql} alt="HTML icon" />
