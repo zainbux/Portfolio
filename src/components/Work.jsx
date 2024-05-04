@@ -12,7 +12,7 @@ import ecom from '../assets/thumbnail.JPG';
 
 const Data= [
   {  
-    name:"E-Commerce Client Wesbite" ,
+    name:"E-Comm Client Site" ,
     url: "https://github.com/zainbux/Galerie-Marzouk",
     image: ecom,
     DemoUrl: "https://www.galeriemarzouk.com/",
