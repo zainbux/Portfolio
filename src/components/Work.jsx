@@ -7,15 +7,23 @@ import atw from '../assets/artwork.JPG';
 import tl from '../assets/tl.png';
 import et from '../assets/et.JPG';
 import art from '../assets/ecom-thumbnail.JPG';
+import ecom from '../assets/thumbnail.JPG';
 
 
 const Data= [
+  {  
+    name:"E-Commerce Client Wesbite" ,
+    url: "https://github.com/zainbux/Galerie-Marzouk",
+    image: ecom,
+    DemoUrl: "https://www.galeriemarzouk.com/",
+  },
   {  
     name:"QCM Detailing" ,
     url: "https://github.com/zainbux/QCM",
     image: qcm,
     DemoUrl: "https://www.qcmdetailing.com/",
   },
+  
   {  
     name:"ArtWork Portfolio" ,
     url: "https://github.com/zainbux/ArtShop",
